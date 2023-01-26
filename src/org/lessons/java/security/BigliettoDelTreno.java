@@ -26,7 +26,7 @@ public class BigliettoDelTreno {
 			System.out.println("il costo del biglietto è " + price + ", con lo scontato del 20% è " + (price*20)/100 + "€");
 		} else {
 			System.out.println("il costo del biglietto è " + price + "€");
-		}
+		} 
 		
 		s.close();
 	}
